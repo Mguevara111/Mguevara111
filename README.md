@@ -5,9 +5,7 @@
 - 📫 How to reach me: email me (im old, i know) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I worked like a IT support many years
-i still dont know how to use github, see you when i learn.
-todavia no se como usar github, nos vemos cuando aprenda.
-ancora non so come usare github, ci vediamo quando lo conosca.
+but I want to try something new like front end develop and design.
 <!---
 Mguevara111/Mguevara111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
