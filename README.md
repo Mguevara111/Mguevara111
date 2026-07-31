@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mguevara111
-- 👀 I’m interested in f1,wrestling,(books) sometimes
-- 🌱 I’m currently learning javascript, bootstrap, docker, react
+- 👀 I’m interested in TS,JS,REACT,EXPRESS,NODE
+- 🌱 I’m currently autodidact, studying express.
 - 💞️ I’m looking to collaborate on frontend - backend projects (js,ts,react,tailwindcss,html,node,express)
 - 📫 How to reach me: email me (im old, i know) 
 - 😄 Pronouns: ...
